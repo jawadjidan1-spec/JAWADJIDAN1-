@@ -11,20 +11,10 @@
         "expirydate": "15-06-2025",
         "Allowoffline": false
     },
-    {
-        "device_id": "f25c6c664cde3ba0",
-        "key": "HACK9977",
-        "expirydate": "15-07-2026",
-        "Allowoffline": false
-    },
-
-    {,
 {
-        "device_id": "c20046be793e02f4",
-        "key": "JAWAD77",
-        "expirydate": "15-07-2026",
+        "device_id": "f25c6c664cde3ba0",
+        "key": "key67890",
+        "expirydate": "16-07-2026",
         "Allowoffline": false
-    },
-
-        
+    }
 ]
